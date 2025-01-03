@@ -1,5 +1,5 @@
 # Change these first
-owner: andrew-forster
+owner: Andrew-Forster
 repo: uptime # The name of this repository
 
 sites:
@@ -12,16 +12,12 @@ sites:
 
 status-website:
   theme: dark
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.andrewjf.com
   logoUrl: https://andrewjf.com/Assets/Images/Me.jpg
-  name: Andrews Uptime Tracker
+  name: Uptime
   introTitle: "This site is used to track up-time and down-time for website created by Andrew."
   introMessage: The status of my sites are listed below
   navbar:
-    - title: Status
-      href: /uptime
     - title: Uptime Repo
       href: https://github.com/$OWNER/$REPO
     - title: Personal / About Site
