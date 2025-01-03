@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://andrewjf.com/Assets/Images/Me.jpg
   name: Andrews Uptime Tracker
   introTitle: "This site is used to track up-time and down-time for website created by Andrew."
-  introMessage: The status of my sites are listed below:
+  introMessage: The status of my sites are listed below
   navbar:
     - title: Status
       href: /uptime
