@@ -2,6 +2,9 @@
 owner: Andrew-Forster
 repo: uptime # The name of this repository
 
+assignees:
+  - Andrew-Forster
+
 sites:
   - name: Personal / About Site
     url: https://andrewjf.com
